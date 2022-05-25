@@ -1,23 +1,3 @@
 # survivor-demo
+For Case study and example input look at the resources/Case.PDF
 for exit line press "exit"
-
-Example input:
-Resources are 5000 meters away
-Hero has 1000 hp
-Hero attack is 10
-Bug is Enemy
-Lion is Enemy
-Zombie is Enemy
-Bug has 50 hp
-Bug attack is 2
-Lion has 100 hp
-Lion attack is 15
-Zombie has 300 hp
-Zombie attack is 7
-There is a Zombie at position 1681
-There is a Bug at position 276
-There is a Bug at position 489
-There is a Lion at position 1527
-There is a Lion at position 2865
-There is a Zombie at position 3523
-exit
